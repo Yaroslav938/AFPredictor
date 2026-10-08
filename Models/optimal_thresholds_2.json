@@ -1,0 +1,6 @@
+{
+    "Single_RF": 0.4055,
+    "Balanced_Bagging_PU": 0.515,
+    "Balanced_RF": 0.54,
+    "Ensemble_Voting": 0.525
+}
